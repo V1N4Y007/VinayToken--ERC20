@@ -135,4 +135,4 @@ Created by Vinay Trivedi
 
 ## Acknowledgments
 
-Built as a learning project for Ethereum smart contract development.
+Built as a learning project for Ethereum smart contract development. Thank you @ckg for your complete guide!

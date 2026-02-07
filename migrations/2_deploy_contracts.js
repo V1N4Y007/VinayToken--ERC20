@@ -1,5 +1,5 @@
-var DappToken = artifacts.require("./DappToken");
+var VinayToken = artifacts.require("./VinayToken");
 
 module.exports = function (deployer) {
-  deployer.deploy(DappToken, 1000000);
+  deployer.deploy(VinayToken, 1000000);
 };

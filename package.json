@@ -1,0 +1,19 @@
+{
+  "name": "token_sale",
+  "version": "1.0.0",
+  "description": "ERC20 Token Sale Dapp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "truffle test"
+  },
+  "author": "Vinay",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "truffle": "^5.0.0"
+  }
+}

@@ -1,13 +1,13 @@
 pragma solidity  ^0.5.11;
 
-contract DappToken{
+contract VinayToken{
 
     //Name
-    string public name = "DApp Token";
+    string public name = "Vinay Token";
     //Symbol
-    string public symbol = "DAPP";
+    string public symbol = "VIN";
     //Standard
-    string public standard = 'DApp Token v1.0';
+    string public standard = 'Vinay Token v1.0';
     //Supply
     uint256 public totalSupply;
 

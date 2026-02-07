@@ -131,7 +131,7 @@ MIT
 
 ## Author
 
-Created by [Your Name]
+Created by Vinay Trivedi
 
 ## Acknowledgments
 
